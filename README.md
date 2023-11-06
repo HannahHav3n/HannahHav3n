@@ -40,7 +40,7 @@ combination of interest for cybersecurity and malware has kept me in IT constant
 
 I am not sure how IT aligns with my personal goals but my personal projects demonstrates my commitment for this passion.
 
-Over time and working on my personal project I have seen a singifcant improvement in my problem solving skills specifcally in
-mathematical scenarios it has helped me think logically and on my GCSE Maths Non calc paper 1 mock paper in Novemeber 2023 
+Over time and working on my personal project I have seen a significant improvement in my problem solving skills specifically in
+mathematical scenarios it has helped me think logically and on my GCSE Math's Non Calculator paper 1 mock paper in Novemeber 2023 
 there was a question where we had to reverse the equation and I remembered deobfuscation and reverse engineering and how I did it,
 this got me an extra 6 marks on that paper.
