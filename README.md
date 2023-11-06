@@ -15,3 +15,15 @@ int main(){
 
 For some reason I like the complexity of C++ and find it easier to learn than python which I laready Knew a bit about from school, 
 having a fresh language I know nothing about helps me focus on parts I know I need to learn rather than what I think I do and do not know.
+
+## Skills
+> *Skills I got off of my Btec Digital Information Technology course at GCSE*
+- IT proficiency and software knowledge
+- Project management skills
+- Cybersecurity awareness
+- Planning and executing tasks with documentation
+- Interface design
+
+## Qualifications
+> *Mainly from school*
+- None yet still doing my Gcses
