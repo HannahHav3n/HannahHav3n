@@ -29,6 +29,11 @@ having a fresh language I know nothing about helps me focus on parts I know I ne
 - Creativity
 - Collaboration
 
+> *General skills*
+- Following commands to the dot
+- Leadership
+
+
 ## Qualifications
 > *Mainly from school*
 - None yet still doing my GCSEs
