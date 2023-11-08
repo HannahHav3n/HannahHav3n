@@ -29,6 +29,12 @@ having a fresh language I know nothing about helps me focus on parts I know I ne
 - Creativity
 - Collaboration
 
+> *Other IT related skills*
+- Understanding of basic and some complex linux functions and commands
+- Have dabbled in Void linux, Arch linux, Kali linux and parrot os
+- Knowledge of GIT and how to use it
+- Know how to setup and install neovim and neochad extensions for it
+
 > *General skills*
 - Following commands to the dot
 - Leadership
