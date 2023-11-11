@@ -9,10 +9,10 @@ Although the course I take at GCSE does not teach programming I am a self taught
 basics and more on both languages I know.
 
 ```c++
-#include <iostrea>
+#include <iostream>
 
 int main(){
-  std::cout < "Fun";
+  std::cout << "Fun";
 }
 ```
 
@@ -23,7 +23,7 @@ having a fresh language I know nothing about helps me focus on parts I know I ne
 > *Skills I got off of my Btec Digital Information Technology course at GCSE*
 - IT proficiency and software knowledge
 - Project management skills
-- Cybersecurity awareness
+- Cybersecurity awareness - Strong knowledge of how hackers can exploit software and how to prevent it
 - Planning and executing tasks with documentation
 - Interface design
 - Creativity
